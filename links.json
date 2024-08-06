@@ -1,0 +1,13 @@
+{
+    "links": [
+      {
+        "base_url": "https://www.elle.com.tr/astroloji/",
+        "site": "elle"
+      },
+      {
+        "base_url": "https://twitburc.com.tr/burclar/",
+        "site": "twitburc"
+      }
+    ]
+  }
+  
